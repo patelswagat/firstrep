@@ -10,7 +10,7 @@ import junit.framework.TestSuite;
 public class AppTest 
     extends TestCase
 {
-    asdfasdf
+    asdfasdfkjh
     public AppTest( String testName )
     {
         super( testName );
